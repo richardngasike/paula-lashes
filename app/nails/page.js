@@ -35,7 +35,7 @@ export default function NailsPage() {
         eyebrow="Nail Bar"
         title="Nails that finish every look"
         text="Gel polish, acrylics, builder gel, nail art, manicures and pedicures, all done to last."
-        image="/nails-hero.png"
+        image="/nails-hero.jpg"
       />
 
       <section className="section">

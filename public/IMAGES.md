@@ -60,7 +60,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - nail-polygel.png
 - nail-removal.png
 - nail-spa-pedicure.png
-- nails-hero.png
+- nails-hero.jpg
 - not-found.png
 - og-image.png
 - outcall.png
