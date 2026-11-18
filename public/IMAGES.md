@@ -32,7 +32,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - gallery-7.png
 - gallery-8.png
 - gallery-9.png
-- gallery-hero.png
+- gallery-hero.jpeg
 - hero-nails.jpg
 - hero.png
 - incall.png
@@ -68,7 +68,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - package-glow.png
 - package-squad.png
 - pedicure-feature.png
-- pricing-hero.png
+- pricing-hero.jpg
 - pricing-lashes.png
 - pricing-nails.png
 - shape-almond.png

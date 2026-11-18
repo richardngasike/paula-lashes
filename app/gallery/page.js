@@ -15,7 +15,7 @@ export default function GalleryPage() {
         eyebrow="Portfolio"
         title="Our work speaks for itself"
         text="Browse recent lash sets, nail designs and moments from the studio."
-        image="/gallery-hero.png"
+        image="/gallery-hero.jpeg"
       />
       <section className="section">
         <div className="container">

@@ -46,7 +46,7 @@ export default function PricingPage() {
         eyebrow="Price List"
         title="Simple, transparent pricing"
         text="Starting prices for our lash and nail services. Outcall transport is quoted based on your location."
-        image="/pricing-hero.png"
+        image="/pricing-hero.jpg"
       />
 
       <section className="section">
