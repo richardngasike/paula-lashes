@@ -446,6 +446,26 @@ em {
   line-height: 1;
 }
 
+.logo--image {
+  line-height: 0;
+  background: transparent;
+  transition: transform 0.35s var(--ease);
+}
+
+.logo--image:hover {
+  transform: translateY(-1px);
+}
+
+.logo__img {
+  height: 62px;
+  width: auto;
+  display: block;
+}
+
+.logo--footer .logo__img {
+  height: 96px;
+}
+
 .logo--light .logo__text {
   color: var(--white);
 }
@@ -2831,6 +2851,14 @@ a.contact-card:hover {
 
   .logo__text {
     font-size: 1.45rem;
+  }
+
+  .logo__img {
+    height: 50px;
+  }
+
+  .logo--footer .logo__img {
+    height: 80px;
   }
 
   .card-grid,
