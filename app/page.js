@@ -27,6 +27,10 @@ export default function HomePage() {
     <>
       {/* HERO */}
       <section className="hero">
+        <div className="hero__video" aria-hidden="true">
+          <VideoBox src="/hero-bg.mp4" label="" rounded={false} showFallback={false} />
+          <div className="hero__video-overlay" />
+        </div>
         <div className="hero__blob hero__blob--one" />
         <div className="hero__blob hero__blob--two" />
         <div className="container hero__grid">

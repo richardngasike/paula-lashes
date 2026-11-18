@@ -34,6 +34,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - gallery-9.png
 - gallery-hero.jpeg
 - hero-nails.jpg
+- hero-bg.mp4 (video: landscape 16:9, MP4/H.264, muted autoplay loop, ideally under 8MB)
 - hero.png
 - incall.png
 - lash-aftercare.png
