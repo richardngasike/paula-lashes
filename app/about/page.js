@@ -28,7 +28,7 @@ export default function AboutPage() {
         eyebrow="Our Story"
         title="Beauty, crafted with care"
         text="A lash and nail studio in Ruaka built on skill, hygiene and genuine love for making women feel beautiful."
-        image="/about-hero.png"
+        image="/about-hero.jpg"
       />
 
       <section className="section">

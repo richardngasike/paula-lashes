@@ -41,7 +41,7 @@ export default function LashesPage() {
         eyebrow="Lash Studio"
         title="Lash extensions, made for your eyes"
         text="Individual extensions, clusters, refills, removal and cleaning, all done with precision and care."
-        image="/lashes-hero.png"
+        image="/lashes-hero.jpg"
       />
 
       <section className="section">

@@ -5,7 +5,7 @@ Drop images into this public folder using these exact file names. Until a file e
 Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB. Also add favicon.ico here.
 
 - about-2.jpg
-- about-hero.png
+- about-hero.jpg
 - about.jpg
 - book-hero.png
 - book-side.png
@@ -47,7 +47,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - lash-removal.png
 - lash-volume.png
 - lash-wispy.png
-- lashes-hero.png
+- lashes-hero.jpg
 - nail-acrylic.png
 - nail-art.png
 - nail-builder-gel.png
