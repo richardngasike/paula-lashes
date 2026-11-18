@@ -2,6 +2,7 @@ import Link from "next/link";
 import { FiArrowRight, FiCheck, FiClock, FiMapPin, FiHome, FiTruck } from "react-icons/fi";
 import { PiEyeLight, PiHandLight, PiSparkleFill, PiShieldCheckLight, PiCertificateLight, PiDropLight, PiCarProfileLight } from "react-icons/pi";
 import ImageBox from "@/components/ImageBox";
+import VideoBox from "@/components/VideoBox";
 import SectionHeading from "@/components/SectionHeading";
 import ServiceCard from "@/components/ServiceCard";
 import Marquee from "@/components/Marquee";
@@ -226,7 +227,7 @@ export default function HomePage() {
             })}
           </div>
           <div className="why__center">
-            <ImageBox src="/why-us.png" alt="Why choose Paula Lashes" sizes="(max-width: 900px) 100vw, 33vw" />
+            <VideoBox src="/why-us.mp4" label="Why choose Paula Lashes" />
             <div className="why__label">
               <span className="eyebrow">Why Paula Lashes</span>
               <h2 className="h2">Beauty you can <em>trust</em></h2>

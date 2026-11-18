@@ -88,4 +88,4 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - trend-3d.png
 - trend-chrome.png
 - trend-french.png
-- why-us.png
+- why-us.mp4 (video: MP4/H.264, muted autoplay loop, ideally under 5MB, portrait 3:4)
