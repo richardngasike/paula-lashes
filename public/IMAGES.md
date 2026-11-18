@@ -10,8 +10,8 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - book-hero.png
 - book-side.png
 - brow-lamination.png
-- category-lashes.png
-- category-nails.png
+- category-lashes.jpg
+- category-nails.jpg
 - client-1.png
 - client-2.png
 - client-3.png

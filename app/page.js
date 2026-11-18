@@ -98,7 +98,7 @@ export default function HomePage() {
           />
           <div className="category-grid">
             <Link href="/lashes" className="category-card">
-              <ImageBox src="/category-lashes.png" alt="Lash extensions" sizes="(max-width: 768px) 100vw, 50vw" />
+              <ImageBox src="/category-lashes.jpg" alt="Lash extensions" sizes="(max-width: 768px) 100vw, 50vw" />
               <div className="category-card__overlay" />
               <div className="category-card__content">
                 <span className="category-card__count">{lashServices.length} services</span>
@@ -108,7 +108,7 @@ export default function HomePage() {
               </div>
             </Link>
             <Link href="/nails" className="category-card">
-              <ImageBox src="/category-nails.png" alt="Nail services" sizes="(max-width: 768px) 100vw, 50vw" />
+              <ImageBox src="/category-nails.jpg" alt="Nail services" sizes="(max-width: 768px) 100vw, 50vw" />
               <div className="category-card__overlay" />
               <div className="category-card__content">
                 <span className="category-card__count">{nailServices.length} services</span>
