@@ -683,6 +683,13 @@ em {
 
 .hero__video .video-box__video {
   opacity: 0.75;
+  pointer-events: none;
+}
+
+.video-box__video::-webkit-media-controls,
+.video-box__video::-webkit-media-controls-start-playback-button {
+  display: none !important;
+  -webkit-appearance: none;
 }
 
 .hero__video-overlay {
@@ -695,7 +702,7 @@ em {
 
 @media (max-width: 900px) {
   .hero__video-overlay {
-    background: linear-gradient(180deg, rgba(255, 249, 245, 0.78) 0%, rgba(255, 249, 245, 0.6) 50%, rgba(255, 249, 245, 0.35) 100%);
+    background: linear-gradient(180deg, rgba(255, 249, 245, 0.7) 0%, rgba(255, 249, 245, 0.45) 45%, rgba(255, 249, 245, 0.15) 100%);
   }
 }
 
