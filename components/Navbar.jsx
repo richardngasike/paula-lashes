@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { HiOutlineMenuAlt3, HiOutlineX } from "react-icons/hi";
 import { FiPhone } from "react-icons/fi";
@@ -42,11 +43,16 @@ export default function Navbar() {
 
       <header className={`navbar ${scrolled ? "navbar--scrolled" : ""}`}>
         <div className="container navbar__inner">
-          <Link href="/" className="logo" aria-label="Paula Lashes home">
-            <span className="logo__mark">P</span>
-            <span className="logo__text">
-              Paula <em>Lashes</em>
-            </span>
+          <Link href="/" className="logo logo--image" aria-label="Paula Lashes home">
+            <Image
+              src="/Paula-Logo-Final.png"
+              alt="Paula Lashes"
+              width={707}
+              height={353}
+              priority
+              sizes="140px"
+              className="logo__img"
+            />
           </Link>
 
           <nav className="navbar__links" aria-label="Main navigation">

@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { FaInstagram, FaTiktok, FaFacebookF, FaWhatsapp } from "react-icons/fa";
 import { FiPhone, FiMail, FiMapPin, FiClock } from "react-icons/fi";
 import { site, navLinks, whatsappLink } from "@/data/site";
@@ -10,11 +11,15 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer__grid">
         <div className="footer__brand">
-          <Link href="/" className="logo logo--light">
-            <span className="logo__mark">P</span>
-            <span className="logo__text">
-              Paula <em>Lashes</em>
-            </span>
+          <Link href="/" className="logo logo--image logo--footer" aria-label="Paula Lashes home">
+            <Image
+              src="/Paula-Logo-Final.png"
+              alt="Paula Lashes"
+              width={707}
+              height={353}
+              sizes="200px"
+              className="logo__img"
+            />
           </Link>
           <p>{site.description}</p>
           <div className="footer__social">
