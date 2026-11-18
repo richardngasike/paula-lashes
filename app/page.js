@@ -66,7 +66,7 @@ export default function HomePage() {
 
           <div className="hero__visual">
             <ImageBox src="/hero.jpeg" alt="Paula Lashes lash extensions" className="hero__main" priority sizes="(max-width: 900px) 100vw, 45vw" />
-            <ImageBox src="/hero-nails.png" alt="Paula Lashes nail art" className="hero__small" sizes="200px" />
+            <ImageBox src="/hero-nails.jpg" alt="Paula Lashes nail art" className="hero__small" sizes="200px" />
             <div className="hero__badge">
               <PiEyeLight />
               <div>

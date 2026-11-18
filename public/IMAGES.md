@@ -33,7 +33,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - gallery-8.png
 - gallery-9.png
 - gallery-hero.png
-- hero-nails.png
+- hero-nails.jpg
 - hero.png
 - incall.png
 - lash-aftercare.png
