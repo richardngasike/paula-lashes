@@ -15,7 +15,7 @@ Recommended: portraits 1200x1500, wide images 1600x1000, compress to under 300KB
 - client-1.png
 - client-2.png
 - client-3.png
-- contact-hero.png
+- gallery-hero.jpeg
 - contact-side.png
 - cta.png
 - faq.png

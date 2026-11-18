@@ -27,7 +27,7 @@ export default function ContactPage() {
         eyebrow="Get In Touch"
         title="We would love to hear from you"
         text="Questions, bookings or group events. Reach out any day of the week."
-        image="/contact-hero.png"
+        image="/contact-hero.jpg"
       />
 
       <section className="section">
